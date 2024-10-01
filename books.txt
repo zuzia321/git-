@@ -1,3 +1,6 @@
 1.Książka
 2.Romanse
 3.Fantazy
+4. Thriller
+5. Biography
+6. Comedy
